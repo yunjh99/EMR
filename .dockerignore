@@ -1,0 +1,15 @@
+.git
+.gradle
+.idea
+build
+frontend
+db
+docs
+deployment
+src/test
+src/main/resources/application.properties
+.env
+.env.*
+**/*.pem
+**/*.key
+**/*.log
